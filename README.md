@@ -5,9 +5,7 @@
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=Yash-Bambhroliya&style=flat-square&color=blue" alt=""/>
-</div>
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)  
+</div> 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yash-Bambhroliya&theme=dark&background=000000)](https://git.io/streak-stats)
 
