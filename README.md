@@ -8,5 +8,5 @@
 </div> 
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yash-Bambhroliya&theme=dark&background=000000)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yash-Bambhroliya&theme=dark&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yash-Bambhroliya&theme=dark&card_width=700&hide_current_streak=true)](https://git.io/streak-stats)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Yash-Bambhroliya&theme=dark)](https://git.io/streak-stats) -->
